@@ -1,21 +1,21 @@
-# first-pr-practice
+# Copytrading Software
 
-A tiny practice repo with a couple of small utility functions, used to
-practice the GitHub PR workflow: branch, commit, push, open PR, merge.
+Automatisk copytrading platform för futures med risk management.
 
-## Usage
+## Features
+- Automatisk kopiering av tradare
+- Risk management (position sizing, stop-loss, exposure limits)
+- Real-time trading data
+- Web & Mobile interface
+- Tradovate API integration
 
-```python
-from utils import add, multiply
-
-add(2, 3)       # 5
-multiply(2, 3)  # 6
+## Project Structure
+```
+├── backend/              # Python/FastAPI
+├── frontend/             # React/Next.js
+├── mobile/               # React Native
+└── docs/                 # Documentation
 ```
 
-## Tests
-
-Run the tests with:
-
-```
-python -m unittest discover tests
-```
+## Setup
+Se respektive README i varje mapp för instruktioner.
