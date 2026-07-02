@@ -1,6 +1,6 @@
 # first-pr-practice
 
-A tiny practice repo with a couple of small utillity functions, used to
+A tiny practice repo with a couple of small utility functions, used to
 practice the GitHub PR workflow: branch, commit, push, open PR, merge.
 
 ## Usage
